@@ -32,7 +32,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
               
               {/* Logo */}
               <Link to="/" className="text-xl md:text-2xl font-bold">
-                AislesAdvantage
+              OneStoreCompanyPOS
               </Link>
             </div>
             
@@ -86,7 +86,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
             <div>
               <h3 className="font-semibold mb-4">About Us</h3>
               <p className="text-sm text-muted-foreground">
-                AislesAdvantage provides modern POS solutions for retail businesses.
+              OneStoreCompanyPOS provides modern POS solutions for retail businesses.
               </p>
             </div>
             <div>

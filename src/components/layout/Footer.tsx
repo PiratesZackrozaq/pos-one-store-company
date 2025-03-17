@@ -11,7 +11,7 @@ export const Footer = () => {
             <Link to="/terms" className="hover:text-primary">Terms of Service</Link>
           </div>
           <p className="text-sm text-gray-500 text-center">
-            © {new Date().getFullYear()} AislesAdvantage. All rights reserved.
+            © {new Date().getFullYear()} OneStoreCompanyPOS. All rights reserved.
           </p>
         </div>
       </div>
