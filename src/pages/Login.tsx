@@ -31,7 +31,7 @@ const Login = () => {
       <Card className="w-full max-w-md">
         <CardHeader className="space-y-1">
           <CardTitle className="text-2xl text-center">
-            Aisles Advantage POS
+            OneStoreCompany POS 
           </CardTitle>
         </CardHeader>
         <CardContent>
